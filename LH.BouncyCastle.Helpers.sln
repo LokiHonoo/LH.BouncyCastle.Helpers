@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LH.BouncyCastle.Helpers", "LH.BouncyCastle.Helpers\LH.BouncyCastle.Helpers.csproj", "{A66DDE6F-D5C6-40E3-9383-974AB10F669E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{7486B59E-8202-4D09-A0A8-FAAC50263032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66DDE6F-D5C6-40E3-9383-974AB10F669E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66DDE6F-D5C6-40E3-9383-974AB10F669E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66DDE6F-D5C6-40E3-9383-974AB10F669E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66DDE6F-D5C6-40E3-9383-974AB10F669E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7486B59E-8202-4D09-A0A8-FAAC50263032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7486B59E-8202-4D09-A0A8-FAAC50263032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7486B59E-8202-4D09-A0A8-FAAC50263032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7486B59E-8202-4D09-A0A8-FAAC50263032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D76F358C-EDCE-4BAF-BE6B-9A6658D7133E}
+	EndGlobalSection
+EndGlobal
