@@ -16,8 +16,8 @@
     <PackageTags>LH BouncyCastle</PackageTags>
     <AssemblyName>LH.BouncyCastle.Helpers</AssemblyName>
     <RootNamespace>LH.BouncyCastle.Helpers</RootNamespace>
-    <Version>1.0.2</Version>
-    <AssemblyVersion>1.0.2.0</AssemblyVersion>
+    <Version>1.0.3</Version>
+    <AssemblyVersion>1.0.3.0</AssemblyVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
